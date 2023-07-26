@@ -1,0 +1,3 @@
+/home/yyanga/Testing5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yyanga/Testing5/cmake-build-debug/CMakeFiles/projt5.dir
+/home/yyanga/Testing5/cmake-build-debug/CMakeFiles/edit_cache.dir

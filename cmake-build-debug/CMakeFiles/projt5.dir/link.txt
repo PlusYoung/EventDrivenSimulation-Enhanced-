@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/projt5.dir/project5.cpp.o CMakeFiles/projt5.dir/random.cpp.o CMakeFiles/projt5.dir/EventClass.cpp.o CMakeFiles/projt5.dir/CarClass.cpp.o CMakeFiles/projt5.dir/IntersectionSimulationClass.cpp.o -o projt5 
